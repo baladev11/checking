@@ -54,6 +54,6 @@ Here's a breakdown of the code:
 | AccountName | String    | Customer's account name.   |
 | Balance      | Double    | Customer's account balance. |
 ## Sequence Diagram 
- ![]({'sequenece_diagram.png'}) 
+ ![""]({'sequenece_diagram.png'}) 
 ## class Diagram 
- ![]({'class_diagram.png'}) 
+ ![""]({'class_diagram.png'}) 
